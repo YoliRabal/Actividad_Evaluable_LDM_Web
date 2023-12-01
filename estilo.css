@@ -1,0 +1,45 @@
+backgroundcolor {color: bisque;}
+h1 {color: bisque;
+background-color: sienna;
+padding-top: 15px;
+padding-bottom: 15px;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+h2 {color:bisque;
+background-color: brown;
+padding-top: 15px;
+padding-bottom: 15px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {color: brown;
+text-align:center;}
+
+h4 {color: rgb(51, 20, 5);
+text-align:center;}
+
+p {color: saddlebrown;
+text-align: center;
+font-size:medium;}
+
+li{text-align: center;
+color: blue;
+font-family: 'Courier New', Courier, monospace;
+}
+
+ul{list-style-type:none;}
+
+table{margin-left:auto;
+margin-right: auto;
+border: 1px solid #000000;
+ }
+
+ th, td {text-align: center;
+vertical-align: top;
+border: 1px solid #000}
+
+form{text-align: center;}
+
+p.p_img{text-align: center;}
